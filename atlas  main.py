@@ -23,7 +23,7 @@ root.geometry("565x600")
 root.style=Style(theme='cyborg')
 #############################################################################
 
-my=m.connect(host="localhost",user="root",database="India",password="85246")
+my=m.connect(host="localhost",user="root",database="India",password="")
 mc=my.cursor()
 
 
